@@ -1,5 +1,6 @@
 \# PixelVault256
 
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/9e6eb9b9-2062-487d-ab66-3ad72f19a73e" />
 
 
 \*\*PixelVault256\*\* is a single-file GUI application for secure data hiding and encryption.
