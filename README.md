@@ -51,3 +51,8 @@ pyinstaller --onefile --windowed pixelvault256.py
 
 
 
+##  Download 
+
+You can download the latest Windows executable here:
+
+?? [Download PixelVault256.exe (latest release)](https://github.com/david-marin-0xff/PixelVault256/releases/latest/download/pixelvault256.exe)
