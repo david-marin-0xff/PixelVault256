@@ -39,6 +39,7 @@
 
 4\. Enter password → done!
 
+<img width="1063" height="897" alt="image" src="https://github.com/user-attachments/assets/a322ccb4-e955-4760-a6b6-289c233d8521" />
 
 
 \### Build from source
